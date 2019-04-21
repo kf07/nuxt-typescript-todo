@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-typescript-todo",
+  "version": "1.0.0",
+  "description": "My pioneering Nuxt.js project",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.6.1"
+  },
+  "devDependencies": {
+    "@nuxt/typescript": "^2.6.1",
+    "nodemon": "^1.18.9",
+    "ts-node": "^8.0.3",
+    "vue-property-decorator": "^8.1.0"
+  }
+}
